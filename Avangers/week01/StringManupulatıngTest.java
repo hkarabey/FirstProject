@@ -17,7 +17,7 @@ public class StringManupulatıngTest {
         System.out.println(b);
 
         System.out.println(b);
-        
+
 
 
 
