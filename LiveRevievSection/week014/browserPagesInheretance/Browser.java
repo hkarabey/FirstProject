@@ -2,7 +2,7 @@ package week014.browserPagesInheretance;
 
 public class Browser {
 
-    private String browserType;//chrome,safari...
+    private static String browserType;//chrome,safari...
 
     private static String operatingSystem;//windows,android,ıos
 
