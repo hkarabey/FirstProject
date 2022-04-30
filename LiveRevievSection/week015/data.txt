@@ -1,0 +1,17 @@
+in
+this
+example
+we
+will
+see
+IOexceptıon
+onother
+chect
+exeptıon
+type
+we
+use
+file
+class
+from
+java
